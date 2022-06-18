@@ -1,2 +1,2 @@
 # vue-blog
-my blog use vuepress
+用vuepress做的博客
